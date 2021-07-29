@@ -11,10 +11,6 @@ yhey dont have to remember everything themselves.
 
 View the repo at: https://github.com/CMRushing/DayPlannerHW
 
-License:
-License: MIT
-
-For more information about the license, click the link below:
 
 Questions:
 For more information about the application or to simply connect, please reach out to me
