@@ -1,7 +1,5 @@
 Day Planner
 
-This application was created using the MERN stack. It allows users to search for books via the Google Books API. Search results are rendered dynamically in the UI. Users have the option to view, save and/or delete books.
-
 Tech Used:
 Javascript
 html
